@@ -1,6 +1,7 @@
 # Test TCP Ports with PowerShell: A Native Windows Netcat Alternative
 
 - **Author / channel:** Darien Hawkins / Darien's Tips
+- **Video Link:** https://www.youtube.com/watch?v=gzUoiAQbX24
 - **Purpose:** Reference the demonstrated temporary-listener, connection-test, cleanup and database-verification commands without adding automation.
 - **Source script:** `PSNCALT_Title-Script_20261024.txt`
 - **Preparation date:** 2026-10-24
